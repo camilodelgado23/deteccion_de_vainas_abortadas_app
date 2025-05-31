@@ -36,7 +36,7 @@ deteccion_de_vainas_abortadas_app/ |
 - pubspec.yaml # Archivo de configuración con las dependencias del proyecto
 - README.md # Documentación del proyecto
 - lib/ |
-  ─ main.dart # Código principal de la aplicación Flutter
+    - main.dart # Código principal de la aplicación Flutter
 
 ## 🚀 Requisitos previos
 
