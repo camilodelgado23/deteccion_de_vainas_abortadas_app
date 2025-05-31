@@ -1,0 +1,21 @@
+name: detector_vainas_flutter
+description: App Flutter para detectar vainas abortadas en cacao
+publish_to: 'none'
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.4
+  image_picker: ^0.8.4+4
+  path: ^1.8.0
+  mime: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
