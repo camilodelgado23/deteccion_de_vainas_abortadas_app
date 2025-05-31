@@ -2,6 +2,12 @@
 
 Esta aplicación móvil desarrollada en **Flutter** permite detectar vainas abortadas en imágenes de mazorcas de cacao usando un modelo YOLOv8 desplegado en la nube con **FastAPI**.
 
+## 🎥 Videos de funcionamiento
+
+Puedes ver demostraciones del funcionamiento de la app en la siguiente carpeta de Google Drive:
+
+🔗 [Ver videos](https://drive.google.com/drive/folders/1ifvvzGRvBEe19DvQPGuq6H_iiQys6N9e?usp=sharing)
+
 ## 📱 Características
 
 - 📷 Permite seleccionar una imagen desde la galería o tomar una foto
@@ -49,5 +55,3 @@ Ejecuta la aplicación en tu emulador o dispositivo físico:
 ```bash
 flutter run
 ```
-
-
