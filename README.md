@@ -38,8 +38,16 @@ Esta aplicación móvil desarrollada en **Flutter** permite detectar vainas abor
 git clone https://github.com/camilodelgado23/deteccion_de_vainas_abortadas_app.git
 cd deteccion_de_vainas_abortadas_app
 ```
-1. Si ves un error como `"no se ha creado el proyecto"`, ejecuta el siguiente comando para inicializar el proyecto Flutter:
+Instala las dependencias:
 
 ```bash
 flutter create .
+flutter pub get
+```
+Ejecuta la aplicación en tu emulador o dispositivo físico:
+
+```bash
+flutter run
+```
+
 
