@@ -32,10 +32,10 @@ Puedes ver demostraciones del funcionamiento de la app en la siguiente carpeta d
 
 deteccion_de_vainas_abortadas_app/ |
 
-─ .gitignore
-─ pubspec.yaml # Archivo de configuración con las dependencias del proyecto
-─ README.md # Documentación del proyecto
-─ lib/
+- .gitignore
+- pubspec.yaml # Archivo de configuración con las dependencias del proyecto
+- README.md # Documentación del proyecto
+- lib/ |
   ─ main.dart # Código principal de la aplicación Flutter
 
 ## 🚀 Requisitos previos
