@@ -30,7 +30,7 @@ Puedes ver demostraciones del funcionamiento de la app en la siguiente carpeta d
 
 ## 📁 Estructura del Proyecto
 
-deteccion_de_vainas_abortadas_app/
+deteccion_de_vainas_abortadas_app/ |
 
 ─ .gitignore
 ─ pubspec.yaml # Archivo de configuración con las dependencias del proyecto
